@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">Project-2-RecyclerView-App</string>
+    <string name="app_name">Best Hotal In KSA</string>
+    <string name="tatel">Best Hotal In KSA</string>
+    <string name="hotal1">Ibis Jeddah City Center</string>
+    <string name="hotal2">Jeddah Hilton</string>
+    <string name="hotal3">Centro Shaheen Jeddah by Rotana</string>
+    <string name="hotal4">Dar Al Eiman Royal Hotel</string>
+    <string name="hotal5">Millennium Makkah Al Naseem</string>
+    <string name="hotal6">Makkah Towers</string>
+    <string name="hotal7">Pullman Zamzam Madina</string>
+    <string name="hotal8">Anwar Al Madinah Mövenpick</string>
+    <string name="location1">Jeddah</string>
+    <string name="location2">Makkah</string>
+    <string name="location3">Madinah</string>
+
 </resources>
+
